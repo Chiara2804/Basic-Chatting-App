@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/drawable/btn_background.xml" value="0.2875" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/drawable/edt_bacground.xml" value="0.2875" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/drawable/edt_background.xml" value="0.2875" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/drawable/edt_bg_message.xml" value="0.182" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/drawable/edt_border_message.xml" value="0.182" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/drawable/message_box_background.xml" value="0.2885" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/drawable/profile_pic.xml" value="0.3025" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/layout/activity_login.xml" value="0.24079320113314448" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/layout/activity_main.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/layout/activity_sign_up.xml" value="0.3484375" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/layout/received.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/layout/sent.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/layout/user_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/menu/menu.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2465" />
+        <entry key="..\:/Users/Chiara/AndroidStudioProjects/ChattingApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2465" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
