@@ -1,4 +1,4 @@
-<img src="README_imgs/github-header-image.png"/>
+<img src="README_imgs/github-header-image.png" width="100%"/>
 
 <div>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>  
