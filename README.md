@@ -30,9 +30,6 @@ For the Sign Up we collect an extra value: the name.
 ```
 <img src="README_imgs/signup.png"/>
 
-### Realtime Database
-
-
 ### Chat List
 In this part all the users are shown.
 ``` kotlin
