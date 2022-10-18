@@ -13,7 +13,7 @@ btnSignUp.setOnClickListener {
   startActivity(intent)
 }
 ```
-<img src="README_imgs/login.png" align-text="center"/>
+<img src="README_imgs/login.png" align="center"/>
 
 ### Sign Up
 <img src="README_imgs/signup.png"/>
